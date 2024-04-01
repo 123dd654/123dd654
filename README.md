@@ -1,6 +1,6 @@
-(https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=)
 
-https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text
+
 
 ## 🥰 Let's get connected
 
