@@ -46,7 +46,12 @@ We will always move forward with a learning attitude.<br />
 
 ## Github log
 
-![Seo yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=123dd654&show_icons=true&theme=radical)
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123dd654&exclude_repo=123dd654.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=123dd654&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 
 
