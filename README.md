@@ -2,19 +2,13 @@
 <img src="https://github.com/123dd654/123dd654/assets/161431124/d8863cc8-c908-44f9-ba9c-e8682eeba72d">
 </div>
 
+<!-- ## 🥰 Let's get connected
 
-
-## 🥰 Let's get connected
-
-## 🛠️ Technologies and Tools I use
-
-
-
+## 🛠️ Technologies and Tools I use -->
 
 <div align="center">💻Tech Stacks💻</div>
 <br />
 <br />
-
 <div align="center">
  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
  <!-- <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/> -->
