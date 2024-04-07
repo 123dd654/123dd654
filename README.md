@@ -34,8 +34,7 @@ We will always move forward with a learning attitude.<br />
 
 ## 🥨 Github stat 🥨
 
-![defg] (https://raw.githubusercontent.com/123dd654/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![defrg] (https://raw.githubusercontent.com/123dd654/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![seoyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=123dd654&show_icons=true&theme=radical)
 
 
 
