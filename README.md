@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
 <img src="https://github.com/123dd654/123dd654/assets/161431124/d8863cc8-c908-44f9-ba9c-e8682eeba72d">
-</p>
+</div>
 
 ## 🥰 Let's get connected
 
