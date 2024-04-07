@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/123dd654/123dd654/assets/161431124/d8863cc8-c908-44f9-ba9c-e8682eeba72d">
+<img src="https://github.com/123dd654/123dd654/assets/161431124/7d4bc91e-ccaa-45c7-a7e1-65e9224433c1">
 </div>
 
 ## 🥰 Let's get connected
