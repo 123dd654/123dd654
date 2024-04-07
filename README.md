@@ -6,7 +6,11 @@
 
 ## 🛠️ Technologies and Tools I use -->
 
-<div align="center">💻Tech Stacks💻</div>
+<div align="center">🎀 Hi there 🎀</div><br />
+I'm Seo Yeon, a front-end aspirant.✨
+We will always move forward with a learning attitude.
+
+<div align="center">💻 Tech Stacks 💻</div>
 <br />
 <div align="center">
  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
@@ -25,6 +29,8 @@
  <!-- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/> -->
  <!--<img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/> -->
 </div>
+
+
 
 
 
