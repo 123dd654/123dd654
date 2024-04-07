@@ -44,6 +44,10 @@ We will always move forward with a learning attitude.<br />
 <img alt="google" src="https://img.shields.io/badge/-blog-4285F4?style=flat-square&logo=google&logoColor=white" height="25px"/>
 </div>
 
+## Github log
+
+![Seo yeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=123dd654&show_icons=true&theme=radical)
+
 
 
 
