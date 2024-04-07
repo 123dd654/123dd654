@@ -44,7 +44,7 @@ We will always move forward with a learning attitude.<br />
 <img alt="google" src="https://img.shields.io/badge/-blog-4285F4?style=flat-square&logo=google&logoColor=white" height="25px"/>
 </div>
 
-## Github log
+## 🥨 Github stat 🥨
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=123dd654&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% /></a><a href="https://github.com/anuraghazra/github-readme-stats">
