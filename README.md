@@ -7,8 +7,8 @@
 ## 🛠️ Technologies and Tools I use -->
 
 <div align="center">🎀 Hi there 🎀</div><br />
-I'm Seo Yeon, a front-end aspirant.✨
-We will always move forward with a learning attitude.
+I'm Seo Yeon, a front-end aspirant.✨<br />
+We will always move forward with a learning attitude.<br />
 
 <div align="center">💻 Tech Stacks 💻</div>
 <br />
