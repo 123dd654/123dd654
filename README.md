@@ -39,7 +39,7 @@ We will always move forward with a learning attitude.<br />
 <div align="center">📞Contact me📞</div>
 <br />
 <div align="center">
-<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+<img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="25px"/>
 </div>
 
 
