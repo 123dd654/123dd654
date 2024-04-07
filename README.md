@@ -5,7 +5,8 @@
 <!-- ## 🥰 Let's get connected
 
 ## 🛠️ Technologies and Tools I use -->
-
+<br />
+<br />
 <div align="center">🎀 Hi there 🎀</div>
 <br />
 <div align="center">
@@ -13,7 +14,7 @@ I'm Seo Yeon, a front-end aspirant.✨<br />
 We will always move forward with a learning attitude.<br />
 </div>
 <br />
-
+<br />
 <div align="center">💻 Tech Stacks 💻</div>
 <br />
 <div align="center">
