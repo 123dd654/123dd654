@@ -40,8 +40,8 @@ We will always move forward with a learning attitude.<br />
 <br />
 <div align="center">
 <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="25px"/>
-<img alt="gmail" src="https://img.shields.io/badge/-gmail-#EA4335?style=flat-square&logo=gmail&logoColor=white" height="25px"/>
-<img alt="blog" src="https://img.shields.io/badge/-blog-4285F4?style=flat-square&logo=blog&logoColor=white" height="25px"/>
+<img alt="gmail" src="https://img.shields.io/badge/-gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25px"/>
+<img alt="google" src="https://img.shields.io/badge/-blog-4285F4?style=flat-square&logo=google&logoColor=white" height="25px"/>
 </div>
 
 
