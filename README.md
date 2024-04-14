@@ -1,3 +1,5 @@
+![Neon Sign](https://example.com/neon-sign-image.jpg)
+
 
 <!-- ## 🥰 Let's get connected
 
