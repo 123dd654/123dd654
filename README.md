@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="[https://github.com/123dd654/123dd654/assets/161431124/914cd27c-a187-4c79-9a07-a80d4c18f24b](https://github.com/123dd654/123dd654/assets/161431124/245f3581-0fce-471c-9a93-c3f8d670447d)"/>
+  <img src="(https://github.com/123dd654/123dd654/assets/161431124/245f3581-0fce-471c-9a93-c3f8d670447d)"/>
 </div>
 
 <!-- ## 🥰 Let's get connected
