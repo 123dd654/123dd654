@@ -8,7 +8,7 @@
 ## 🛠️ Technologies and Tools I use -->
 <br />
 <br />
-<div align="center">🩵 Hi there 🩵</div>
+<div align="center">💚 Hi there 💚</div>
 <br />
 <div align="center">
 I'm Seo Yeon, a front-end aspirant.✨<br />
