@@ -16,6 +16,47 @@ We will always move forward with a learning attitude.<br />
 </div>
 <br />
 <br />
+
+
+## 📚 Study (24.03.18 ~ ing)   
+- [메인페이지] - [자료 정리 모음](https://123dd654.github.io/class2024/)
+
+- [자바스크립트] - [JAVASCRIPT 기본 개념 정리](https://123dd654.github.io/class2024/javascript/index.html)
+
+- [MySQL] - [SQL 기본 개념 정리](https://123dd654.github.io/class2024/mysql/index.html)
+
+- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://123dd654.github.io/class2024/quiz/a.html)
+- 
+- [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임2](https://123dd654.github.io/class2024/quiz/quizE01.html)
+- 
+- [webd] - [웹디자인기능사 실기 정리](https://123dd654.github.io/class2024/webd/index.html)
+- 
+- [애니메이션] - [애니메이션 제작](https://123dd654.github.io/class2024/css/index-a.html)
+- 
+- [이펙트] - [이펙트 제작](https://123dd654.github.io/class2024/effect/index.html)
+
+- [Github Blog] - [BLOG](https://123dd654.github.io/)
+
+- [api01 - Youtube camping 정보 서치] - [Youtube camping 사이트](https://youtube-camping.vercel.app/) & [Github README 정리](https://github.com/123dd654/youtube-camping)
+  
+- [api02 - 음악 차트 순위 정보 및 플레이리스트] - [SY_playsite 사이트](https://playlist-api2.vercel.app/) & [Github README 정리](https://github.com/123dd654/playlist_api2)
+  
+- [vue-site - 포트폴리오] - [포트폴리오 사이트](https://vocal-boba-261510.netlify.app/)
+  
+- [api03 - 영화 정보 사이트] - [Film Chart 사이트](https://film-chart-36c7d.firebaseapp.com/) & [Github README 정리](https://github.com/123dd654/vue-movie)
+  
+---
+## 👨‍👧‍👧 Team Project (24.03.18 ~ ing)   
+- [Project01 : Pickstom] - [Pickstom 사이트](http://weds159.dothome.co.kr/) & [Github README 정리](https://github.com/123dd654/project-pickstom)
+
+- [Project02 : travel rank : 국내 가볼만한 곳 랭킹]
+  [Culture Chart 사이트](https://travelrank.vercel.app/) & [Github README 정리](https://github.com/123dd654/travelrank)
+  
+---
+
+
+<br />
+<br />
 <div align="center">💻 Tech Stacks 💻</div>
 <br />
 <div align="center">
