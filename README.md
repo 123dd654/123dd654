@@ -47,7 +47,7 @@ We will always move forward with a learning attitude.<br />
   
 ---
 ## 👨‍👧‍👧 Team Project (24.03.18 ~ ing)   
-- [Project01 : Pickstom] - [Pickstom 사이트](http://weds159.dothome.co.kr/) & [Github README 정리](https://github.com/123dd654/project-pickstom)
+- [Project01 : Pickstom : 강아지 옷을 직접 커스텀] - [Pickstom 사이트](http://weds159.dothome.co.kr/) & [Github README 정리](https://github.com/123dd654/project-pickstom)
 
 - [Project02 : travel rank : 국내 가볼만한 곳 랭킹]
   [Culture Chart 사이트](https://travelrank.vercel.app/) & [Github README 정리](https://github.com/123dd654/travelrank)
