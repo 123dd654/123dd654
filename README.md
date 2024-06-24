@@ -26,13 +26,13 @@ We will always move forward with a learning attitude.<br />
 - [MySQL] - [SQL 기본 개념 정리](https://123dd654.github.io/class2024/mysql/index.html)
 
 - [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임](https://123dd654.github.io/class2024/quiz/a.html)
-- 
+  
 - [Quiz game] - [정보처리기능사 필기 관련 퀴즈게임2](https://123dd654.github.io/class2024/quiz/quizE01.html)
-- 
+  
 - [webd] - [웹디자인기능사 실기 정리](https://123dd654.github.io/class2024/webd/index.html)
-- 
+  
 - [애니메이션] - [애니메이션 제작](https://123dd654.github.io/class2024/css/index-a.html)
-- 
+  
 - [이펙트] - [이펙트 제작](https://123dd654.github.io/class2024/effect/index.html)
 
 - [Github Blog] - [BLOG](https://123dd654.github.io/)
