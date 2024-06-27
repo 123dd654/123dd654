@@ -86,13 +86,13 @@ We will always move forward with a learning attitude.<br />
 #### [vue-site - 포트폴리오]
 - Tech Stack : Vue.js, JavaScript
 - Link : https://vocal-boba-261510.netlify.app/
-- Github :
+- Github : https://github.com/123dd654/vue-site
 - Description : Vue.js를 사용한 포트폴리오 사이트입니다. Vue.js를 공부하면서 만들어진 사이트입니다.
   
 #### [next-port - 포트폴리오]
 - Tech Stack : next.js, JavaScript
 - Link : https://next-port-nine.vercel.app/
-- Github :
+- Github : https://github.com/123dd654/next-port
 - Description : next.js를 사용한 포트폴리오 사이트입니다. next.js를 공부하면서 만들어진 사이트입니다.
   
 ---
