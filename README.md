@@ -41,9 +41,12 @@ We will always move forward with a learning attitude.<br />
   
 - [api02 - 음악 차트 순위 정보 및 플레이리스트] - [SY_playsite 사이트](https://playlist-api2.vercel.app/) & [Github README 정리](https://github.com/123dd654/playlist_api2)
   
+- [api03 - 영화 정보 사이트] - [Film Chart 사이트](https://film-chart-36c7d.firebaseapp.com/) & [Github README 정리](https://github.com/123dd654/vue-movie)
+
 - [vue-site - 포트폴리오] - [포트폴리오 사이트](https://vocal-boba-261510.netlify.app/)
   
-- [api03 - 영화 정보 사이트] - [Film Chart 사이트](https://film-chart-36c7d.firebaseapp.com/) & [Github README 정리](https://github.com/123dd654/vue-movie)
+- [next-port - 포트폴리오] - [포트폴리오 사이트](https://next-port-nine.vercel.app/)
+  
   
 ---
 ## 👨‍👧‍👧 Team Project (24.03.18 ~ ing)   
