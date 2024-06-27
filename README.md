@@ -20,92 +20,92 @@ We will always move forward with a learning attitude.<br />
 
 ## 📚 Study (24.03.18 ~ ing)   
 #### [메인페이지]
+- Link : [메인페이지](https://123dd654.github.io/class2024/)
 - Tech Stack : HTML, CSS
-- Link : https://123dd654.github.io/class2024/)
 - Description : 자기소개 페이지입니다. 만들었던 사이트 전체가 정리되어있습니다.
 
 #### [자바스크립트]
+- Link : [자바스크립트](https://123dd654.github.io/class2024/javascript/index.html)
 - Tech Stack : HTML, CSS
-- Link : https://123dd654.github.io/class2024/javascript/index.html
 - Description : 자바스크립트의 기본 개념을 정리한 페이지입니다. 자바스크립트의 함수 및 객체에 대해 정리되어있습니다.
 
 #### [MySQL]
+- Link : [MySQL](https://123dd654.github.io/class2024/mysql/index.html)
 - Tech Stack : HTML, CSS
-- Link : https://123dd654.github.io/class2024/mysql/index.html
 - Description : MySQL의 기본 개념을 정리한 페이지입니다.
 
 #### [Quiz game01]
+- Link : [Quiz game01](https://123dd654.github.io/class2024/quiz/a.html)
 - Tech Stack : HTML, CSS, JavaScript
-- Link : https://123dd654.github.io/class2024/quiz/a.html
 - Description : 정보처리기능사 필기 시험을 위한 퀴즈 게임입니다.
 
 #### [Quiz game02]
+- Link : [Quiz game02](https://123dd654.github.io/class2024/quiz/quizE01.html)
 - Tech Stack : HTML, CSS, JavaScript
-- Link : https://123dd654.github.io/class2024/quiz/quizE01.html
 - Description : 정보처리기능사 필기 시험을 위한 두번째 퀴즈 게임입니다.
   
 #### [webd]
+- Link : [webd](https://123dd654.github.io/class2024/webd/index.html)
 - Tech Stack : HTML, CSS, JavaScript
-- Link : https://123dd654.github.io/class2024/webd/index.html
 - Description : 웹디자인기능사 실기 시험을 위한 정리 페이지입니다. 각 유형별로 정리되어있습니다.
   
 #### [애니메이션 제작]
+- Link : [애니메이션 제작](https://123dd654.github.io/class2024/css/index-a.html)
 - Tech Stack : HTML, CSS
-- Link : https://123dd654.github.io/class2024/css/index-a.html
 - Description : CSS를 사용한 애니메이션 제작 방법을 설명한 페이지입니다.
   
 #### [이펙트]
+- Link : [이펙트](https://123dd654.github.io/class2024/effect/index.html)
 - Tech Stack : HTML, CSS
-- Link : https://123dd654.github.io/class2024/effect/index.html
 - Description : 다양한 이펙트 제작 방법을 설명한 페이지입니다.
 
 #### [Github Blog]
+- Link : [Github Blog](https://123dd654.github.io/)
 - Tech Stack : HTML, CSS
-- Link : https://123dd654.github.io/
 - Description : 마크다운을 이용하여 깃허브로 블로그를 제작했습니다. 다양한 프로젝트와 학습 내용을 공유하는 블로그입니다.
 
 #### [api01 - Youtube camping 정보 서치]
+- Link : [Youtube camping](https://youtube-camping.vercel.app/)
+- Github : [github_link](https://github.com/123dd654/youtube-camping)
 - Tech Stack : React, JavaScript, SCSS
-- Link : https://youtube-camping.vercel.app/
-- Github : https://github.com/123dd654/youtube-camping
 - Description : api를 이용하여 캠핑유튜브 사이트를 만들었습니다. 서치 및 유튜브 시청이 가능합니다.
   
 #### [api02 - 음악 차트 순위 정보 및 플레이리스트(sy_playlist)]
+- Link : [sy_playlist](https://playlist-api2.vercel.app/)
+- Github : [github_link](https://github.com/123dd654/playlist_api2)
 - Tech Stack : React, JavaScript, SCSS
-- Link : https://playlist-api2.vercel.app/
-- Github : https://github.com/123dd654/playlist_api2)
 - Description : api를 이용하여 음악차트 사이트를 만들었습니다. 애플뮤직, 지니 등 5개정도의 음악 차트 100위권과 서치 기능, 원하는 플레이리스트 만들기가 가능합니다.
   
 #### [api03 - 영화 정보 사이트(Film Chart)]
+- Link : [Film Chart](https://film-chart-36c7d.firebaseapp.com/)
+- Github : [github_link](https://github.com/123dd654/vue-movie)
 - Tech Stack : Vue.js, JavaScript
-- Link : https://film-chart-36c7d.firebaseapp.com/
-- Github : https://github.com/123dd654/vue-movie)
 - Description : api를 이용하여 영화 사이트를 만들었습니다. 인기영화 최신영화 등이 포함되어있으며 서치기능과 영화 상세보기가 가능합니다.
   
 #### [vue-site - 포트폴리오]
+- Link : [vue-site](https://vocal-boba-261510.netlify.app/)
+- Github : [github_link](https://github.com/123dd654/vue-site)
 - Tech Stack : Vue.js, JavaScript, SCSS
-- Link : https://vocal-boba-261510.netlify.app/
-- Github : https://github.com/123dd654/vue-site
 - Description : Vue.js를 사용한 포트폴리오 사이트입니다. Vue.js를 공부하면서 만들어진 사이트입니다.
   
 #### [next-port - 포트폴리오]
+- Link : [next-site](https://next-port-nine.vercel.app/)
+- Github : [github_link](https://github.com/123dd654/next-port)
 - Tech Stack : next.js, JavaScript, SCSS
-- Link : https://next-port-nine.vercel.app/
-- Github : https://github.com/123dd654/next-port
 - Description : next.js를 사용한 포트폴리오 사이트입니다. next.js를 공부하면서 만들어진 사이트입니다.
   
 ---
 
 ## 🧑‍🤝‍🧑 Team Project01 (Pickstom)   
-- Link : http://weds159.dothome.co.kr/
-- Github : https://github.com/123dd654/project-pickstom
+- Link : [Pickstom](http://weds159.dothome.co.kr/)
+- Github : [github_link](https://github.com/123dd654/project-pickstom)
 - Description: Pickstom은 반려견의 옷을 커스텀하고 저장할 수 있는 웹페이지입니다. 사용자들이 소통할 수 있는 플랫폼을 목표로 하고 있습니다.
 
 - ---
 
 ## 🧑‍🤝‍🧑 Team Project02 (travel rank)   
-- Link : https://travelrank.vercel.app/
-- Github : https://github.com/123dd654/travelrank
+- Link : [travel rank](https://travelrank.vercel.app/)
+- Github : [github_link](https://github.com/123dd654/travelrank)
 - Description: travel rank는 국내 여행지 가볼만한 곳을 랭킹으로 정리한 사이트입니다. 사용자들의 편의성을 우선으로하여 제작되었습니다.
 
 ---
