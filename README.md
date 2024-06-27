@@ -65,13 +65,13 @@ We will always move forward with a learning attitude.<br />
 - Description : 마크다운을 이용하여 깃허브로 블로그를 제작했습니다. 다양한 프로젝트와 학습 내용을 공유하는 블로그입니다.
 
 #### [api01 - Youtube camping 정보 서치]
-- Tech Stack : React, JavaScript, scss
+- Tech Stack : React, JavaScript, SCSS
 - Link : https://youtube-camping.vercel.app/
 - Github : https://github.com/123dd654/youtube-camping
 - Description : api를 이용하여 캠핑유튜브 사이트를 만들었습니다. 서치 및 유튜브 시청이 가능합니다.
   
 #### [api02 - 음악 차트 순위 정보 및 플레이리스트(sy_playlist)]
-- Tech Stack : React, JavaScript, scss
+- Tech Stack : React, JavaScript, SCSS
 - Link : https://playlist-api2.vercel.app/
 - Github : https://github.com/123dd654/playlist_api2)
 - Description : api를 이용하여 음악차트 사이트를 만들었습니다. 애플뮤직, 지니 등 5개정도의 음악 차트 100위권과 서치 기능, 원하는 플레이리스트 만들기가 가능합니다.
@@ -82,15 +82,14 @@ We will always move forward with a learning attitude.<br />
 - Github : https://github.com/123dd654/vue-movie)
 - Description : api를 이용하여 영화 사이트를 만들었습니다. 인기영화 최신영화 등이 포함되어있으며 서치기능과 영화 상세보기가 가능합니다.
   
-
 #### [vue-site - 포트폴리오]
-- Tech Stack : Vue.js, JavaScript
+- Tech Stack : Vue.js, JavaScript, SCSS
 - Link : https://vocal-boba-261510.netlify.app/
 - Github : https://github.com/123dd654/vue-site
 - Description : Vue.js를 사용한 포트폴리오 사이트입니다. Vue.js를 공부하면서 만들어진 사이트입니다.
   
 #### [next-port - 포트폴리오]
-- Tech Stack : next.js, JavaScript
+- Tech Stack : next.js, JavaScript, SCSS
 - Link : https://next-port-nine.vercel.app/
 - Github : https://github.com/123dd654/next-port
 - Description : next.js를 사용한 포트폴리오 사이트입니다. next.js를 공부하면서 만들어진 사이트입니다.
