@@ -19,10 +19,6 @@ We will always move forward with a learning attitude.<br />
 
 
 ## 📚 Study (24.03.18 ~ ing)   
-#### [메인페이지]
-- Link : [메인페이지](https://123dd654.github.io/class2024/)
-- Tech Stack : HTML, CSS
-- Description : 자기소개 페이지입니다. 만들었던 사이트 전체가 정리되어있습니다.
 
 #### [자바스크립트]
 - Link : [자바스크립트](https://123dd654.github.io/class2024/javascript/index.html)
