@@ -14,6 +14,8 @@ We will always move forward with a learning attitude.<br />
 <br />
 <br />
 
+<div align="center"> 💻 Frontend Development Bootcamp (라인컴퓨터아트학원, 2024.03 ~ 2024.09)</div>
+
 
 ## 📚 Study (24.03.18 ~ ing)   
 
