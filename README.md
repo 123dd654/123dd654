@@ -35,7 +35,7 @@
 - Link : [Qbit]()
 - Github : [github_link]()
 - Tech Stack : Next.js, Node.js, Scss
-- Description: 
+- Description: QR 스캔으로 여러 명이 동시에 메뉴를 확인하고 주문할 수 있는 테이블 오더 시스템입니다.
 
 ---
 ### 🚶🏻‍♀️ Personal Project
