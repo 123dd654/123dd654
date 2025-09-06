@@ -5,16 +5,19 @@
 ## 🛠️ Technologies and Tools I use -->
 <br />
 <br />
-<div align="center">💚 Hi there 💚</div>
+<div align="center">안녕하세요</div>
 <br />
 <div align="center">
-I'm Seo Yeon, a front-end aspirant.✨<br />
-We will always move forward with a learning attitude.<br />
+프론트엔드 개발자를 꿈꾸는 서연입니다.✨<br />
+항상 배우는 마음으로, 한 걸음씩 성장해나가고 있어요! 🚀 <br />
 </div>
 <br />
 <br />
 
-<div align="center"> 💻 Frontend Development Bootcamp (라인컴퓨터아트학원, 2024.03 ~ 2024.09)</div>
+<div align="center"> 💻 라인컴퓨터아트학원 | 프론트엔드 개발자 양성과정 (2024.03 ~ 2024.09, 국비 지원)</div>
+
+<br />
+<br />
 
 
 ## 📚 Study (24.03.18 ~ ing)   
