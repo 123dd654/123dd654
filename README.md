@@ -1,7 +1,4 @@
 
-<div align="center">
-  <img src="https://github.com/123dd654/123dd654/assets/161431124/94adfab7-eaa4-4bc2-bd85-9ee144945786"/>
-</div>
 
 <!-- ## 🥰 Let's get connected
 
