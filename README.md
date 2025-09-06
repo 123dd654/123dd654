@@ -50,15 +50,15 @@
 - Tech Stack : HTML, CSS
 - Description : MySQL의 기본 개념을 정리한 페이지입니다.
 
-#### [Quiz game01]
+<!--#### [Quiz game01]
 - Link : [Quiz game01](https://123dd654.github.io/class2024/quiz/a.html)
 - Tech Stack : HTML, CSS, JavaScript
-- Description : 정보처리기능사 필기 시험을 위한 퀴즈 게임입니다.
+- Description : 정보처리기능사 필기 시험을 위한 퀴즈 게임입니다.-->
 
-#### [Quiz game02]
+#### [Quiz game01]
 - Link : [Quiz game02](https://123dd654.github.io/class2024/quiz/quizE01.html)
 - Tech Stack : HTML, CSS, JavaScript
-- Description : 정보처리기능사 필기 시험을 위한 두번째 퀴즈 게임입니다.
+- Description : 정보처리기능사 필기 시험을 위한 퀴즈 게임입니다.
   
 #### [webd]
 - Link : [webd](https://123dd654.github.io/class2024/webd/index.html)
@@ -70,7 +70,7 @@
 - Tech Stack : HTML, CSS
 - Description : CSS를 사용한 애니메이션 제작 방법을 설명한 페이지입니다.
   
-#### [이펙트]
+<!--#### [이펙트]
 - Link : [이펙트](https://123dd654.github.io/class2024/effect/index.html)
 - Tech Stack : HTML, CSS
 - Description : 다양한 이펙트 제작 방법을 설명한 페이지입니다.
@@ -78,7 +78,7 @@
 #### [Github Blog]
 - Link : [Github Blog](https://123dd654.github.io/)
 - Tech Stack : HTML, CSS
-- Description : 마크다운을 이용하여 깃허브로 블로그를 제작했습니다. 다양한 프로젝트와 학습 내용을 공유하는 블로그입니다.
+- Description : 마크다운을 이용하여 깃허브로 블로그를 제작했습니다. 다양한 프로젝트와 학습 내용을 공유하는 블로그입니다.-->
 
 #### [api01 - Youtube camping 정보 서치]
 - Link : [Youtube camping](https://youtube-camping.vercel.app/)
@@ -86,19 +86,19 @@
 - Tech Stack : React, JavaScript, SCSS
 - Description : api를 이용하여 캠핑유튜브 사이트를 만들었습니다. 서치 및 유튜브 시청이 가능합니다.
   
-#### [api02 - 음악 차트 순위 정보 및 플레이리스트(sy_playlist)]
+<!--#### [api02 - 음악 차트 순위 정보 및 플레이리스트(sy_playlist)]
 - Link : [sy_playlist](https://playlist-api2.vercel.app/)
 - Github : [github_link](https://github.com/123dd654/playlist_api2)
 - Tech Stack : React, JavaScript, SCSS
-- Description : api를 이용하여 음악차트 사이트를 만들었습니다. 애플뮤직, 지니 등 5개정도의 음악 차트 100위권과 서치 기능, 원하는 플레이리스트 만들기가 가능합니다.
+- Description : api를 이용하여 음악차트 사이트를 만들었습니다. 애플뮤직, 지니 등 5개정도의 음악 차트 100위권과 서치 기능, 원하는 플레이리스트 만들기가 가능합니다.-->
   
-#### [api03 - 영화 정보 사이트(Film Chart)]
+#### [api02 - 영화 정보 사이트(Film Chart)]
 - Link : [Film Chart](https://film-chart-36c7d.firebaseapp.com/)
 - Github : [github_link](https://github.com/123dd654/vue-movie)
 - Tech Stack : Vue.js, JavaScript
 - Description : api를 이용하여 영화 사이트를 만들었습니다. 인기영화 최신영화 등이 포함되어있으며 서치기능과 영화 상세보기가 가능합니다.
   
-#### [vue-site - 포트폴리오]
+<!--#### [vue-site - 포트폴리오]
 - Link : [vue-site](https://vocal-boba-261510.netlify.app/)
 - Github : [github_link](https://github.com/123dd654/vue-site)
 - Tech Stack : Vue.js, JavaScript, SCSS
@@ -108,21 +108,20 @@
 - Link : [next-site](https://next-port-nine.vercel.app/)
 - Github : [github_link](https://github.com/123dd654/next-port)
 - Tech Stack : next.js, JavaScript, SCSS
-- Description : next.js를 사용한 포트폴리오 사이트입니다. next.js를 공부하면서 만들어진 사이트입니다.
+- Description : next.js를 사용한 포트폴리오 사이트입니다. next.js를 공부하면서 만들어진 사이트입니다.-->
   
 
 
 
 <br />
 <br />
-<div align="center">💻 Tech Stacks 💻</div>
+<div>💻 Tech Stacks 💻</div>
 <br />
-<div align="center">
+<div>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/><img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
- <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/><img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/><img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/><img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/><img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
+ <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/><img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/><img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/><img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/><img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 </div>
-<br />
 <br />
 <br />
 
@@ -135,9 +134,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=123dd654&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<!--<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=123dd654&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
-</a>
+</a>-->
 
 
 
