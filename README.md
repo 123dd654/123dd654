@@ -32,7 +32,7 @@
 - Description: QR 스캔으로 여러 명이 동시에 메뉴를 확인하고 주문할 수 있는 테이블 오더 시스템입니다.
 
 #### [MORO] - personal project
-- Link : 개발중 입니다.
+- Link : [MORO](https://moro-51e47.web.app/)
 - Github : [github link](https://github.com/123dd654/moro)
 - Tech Stack : React.js, css
 - Description : 간편하게 계산할 수 있는 세금계산기와 커뮤니티가 합쳐져있는 웹페이지입니다.
