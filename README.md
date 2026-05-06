@@ -18,24 +18,23 @@
 
 ## 💻 Project 
 
-#### [Pickstom] - team project
-- Link : [Pickstom](http://pickstomdev.dothome.co.kr/)
-- Github : [github_link](https://github.com/123dd654/project-pickstom)
-- Tech Stack : PHP, SCSS
-- Description: Pickstom은 반려견의 옷을 커스텀하고 저장할 수 있는 웹페이지입니다. 사용자들이 소통할 수 있는 플랫폼을 목표로 하고 있습니다.
-
-
-#### [Qbit] - team project
-- Link : [Qbit](http://qbitmenu.com/)
-- Github : [github_link](https://github.com/123dd654/project_qbit)
-- Tech Stack : Next.js, Node.js, Scss
-- Description: QR 스캔으로 여러 명이 동시에 메뉴를 확인하고 주문할 수 있는 테이블 오더 시스템입니다.
-
 #### [MORO] - personal project
 - Link : [MORO](https://moro-51e47.web.app/)
 - Github : [github link](https://github.com/123dd654/moro)
 - Tech Stack : React.js, css
 - Description : 간편하게 계산할 수 있는 세금계산기와 커뮤니티가 합쳐져있는 웹페이지입니다.
+
+#### [Qbit] - team project
+- Link : [Qbit](https://qbitmenu.onrender.com/)
+- Github : [github_link](https://github.com/123dd654/qbitmenu)
+- Tech Stack : Next.js, Node.js, Scss
+- Description: QR 스캔으로 여러 명이 동시에 메뉴를 확인하고 주문할 수 있는 테이블 오더 시스템입니다.
+
+- #### [Pickstom] - team project
+- Link : [Pickstom](http://pickstomdev.dothome.co.kr/)
+- Github : [github_link](https://github.com/123dd654/project-pickstom)
+- Tech Stack : PHP, SCSS
+- Description: Pickstom은 반려견의 옷을 커스텀하고 저장할 수 있는 웹페이지입니다. 사용자들이 소통할 수 있는 플랫폼을 목표로 하고 있습니다.
 
 
 <br/>
